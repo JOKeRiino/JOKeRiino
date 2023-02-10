@@ -2,9 +2,7 @@
 <h3 align="center">"Javascript is the duct tape of the Internet." - Charlie Campbell</h3>
 <hr>
 
-- 🔭 I’m currently working on [TYPR]((still private lol))
-
-- 🌱 I’m currently learning **More React, Python**
+- 🌱 I’m currently learning **More React, Python, Java**
 
 - 💬 Ask me about **E-commerce, JavaScript, my cute Dachshund**
 
